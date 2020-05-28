@@ -1,0 +1,39 @@
+.wrap1{
+    display:flex;
+    justify-content:space-around;
+    width:800px;
+    margin: 0 auto;
+}
+
+.menu{
+background:rgb(210, 241, 210);
+height:600px;
+font-size:20px;
+color:rgb(255, 255, 255);
+text-align:center;
+}
+
+.design1{
+background:rgb(169, 229, 233);
+}
+.design2,.design2 a{
+text-align:left;
+font-size:20px;
+color:rgb(124, 124, 212);
+}
+
+.design2 a:hover{
+    color:navy;
+    background:rgb(233, 233, 155);
+    font-size:23px;
+}
+
+
+
+.content{
+background:rgb(245, 247, 217);
+display:block;
+}
+
+
+
